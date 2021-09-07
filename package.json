@@ -45,6 +45,7 @@
     "what-input": "^5.2.6"
   },
   "devDependencies": {
+    "@netlify/plugin-gatsby": "^1.0.3",
     "@testing-library/react": "^9.3.2",
     "@types/body-scroll-lock": "^2.6.1",
     "@types/jest": "^24.0.23",
