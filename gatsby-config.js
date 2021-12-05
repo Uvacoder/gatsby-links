@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Gatsby Tutorials`,
     description: `Gatsby Tutorials is a community-updated list of video, audio and written tutorials to help you learn GatsbyJS. 👩‍💻`,
-    siteUrl: `https://www.gatsbytutorials.com`, // no slash at the end
+    siteUrl: `https://gatsbylinksmaster.gatsbyjs.io`, // no slash at the end
     language: `en`,
     locale: `en_CA`,
     twitterHandle: ``,
