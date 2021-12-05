@@ -1,0 +1,39 @@
+    - gatsby-node
+    - sourceNodes
+
+- title: Gatsby and Snipcart E-commerce Tutorial
+  link: https://www.frontendstumbles.com/gatsby-and-snipcart-ecommerce-tutorial/
+  formats:
+    - text
+  language: en
+  date: 2019-07-10
+  length: ''
+  authors:
+    - Issy Dennis
+  source: 'frontendstumbles.com'
+  topics:
+    - ecommerce
+    - snipcart
+    - e-commerce
+    - markdown
+    - styled-components
+    - starters
+
+- title: Using Gatsby Image with Netlify CMS
+  link: https://www.frontendstumbles.com/using-gatsby-image-with-netlify-cms/
+  formats:
+    - text
+  language: en
+  date: 2019-05-24
+  length: ''
+  authors:
+    - Issy Dennis
+  source: 'frontendstumbles.com'
+  topics:
+    - netlify-cms
+    - cms
+    - graphql
+    - markdown
+    - gatsby-image
+    - gatsby-remark-images
+    - gatsby-remark-relative-images
