@@ -19,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-source-apiserver`,
       options: {
-        url: `https://api.github.com/repos/ooloth/gatsbytutorials.com/contributors`,
+        url: `https://api.github.com/repos/uvacoder/gatsby-links/contributors`,
         name: `contributors`,
         verboseOutput: process.env.NODE_ENV !== `production`,
       },
