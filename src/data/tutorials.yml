@@ -1,7 +1,4 @@
-    - gatsby-node
-    - sourceNodes
-
-- title: Gatsby and Snipcart E-commerce Tutorial
+   - title: Gatsby and Snipcart E-commerce Tutorial
   link: https://www.frontendstumbles.com/gatsby-and-snipcart-ecommerce-tutorial/
   formats:
     - text
